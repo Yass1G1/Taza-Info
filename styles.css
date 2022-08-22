@@ -27,7 +27,6 @@
 }
 
 /* animation boutons header */
-
 @keyframes cligno {
     from {
         text-shadow: 0 0 1px;
