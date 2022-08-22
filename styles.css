@@ -82,7 +82,7 @@
 
 }
 
-/* anim 1 */
+/* anim T1 */
 @keyframes text{
 	0%{
 		color: black;
@@ -99,7 +99,7 @@
 	}
 }
 
-/* anim 2 */
+/* anim T2 */
 @keyframes textagain {
 	0%{
 		opacity: 0;
