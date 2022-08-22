@@ -168,10 +168,6 @@ div.footer>p {
 	margin: 1%;
 }
 
-/* Rounded border */
-hr.rounded {
-	border-top: 8px solid #bbb;
-  }
 
 svg path{
 	fill:#422800;
